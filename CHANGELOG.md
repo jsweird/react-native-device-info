@@ -2,6 +2,9 @@
 
 ### Next
 
+###2.3.00001
+* fix: remove GCM. 
+
 ### 2.2.2
 * fix: re-fix crash PR #714, API level should be 24 (https://github.com/react-native-community/react-native-device-info/pull/715)
 
